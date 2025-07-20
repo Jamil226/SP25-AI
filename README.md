@@ -145,15 +145,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - Box Plot to Visualize Temperature Spread
   - Plotting the Hottest Days
 
-### Lab-05: LLM Fine Tuning with HuggingFace
-
-- Introduction to Hugging Face
-- Using pre-trained models for text summarization
-- Implementing text summarization using Hugging Face transformers
-- Fine-tuning models for better performance
-- Evaluating summarization results
-
-### Lab-06: Web Scrapping
+### Lab-05: Web Scrapping using BS4
 
 - Web Scrapping using BeatifulSoup
 - Basic Workflow of Web Scraping
@@ -165,15 +157,39 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - Extracting the Original Text from the HTML Elements and Selectors
   - Extracting the data from Elements and Selectors
 
-### Lab-07: Digital Image Processing using OpenCV
+### Lab-06: LLM Fine-Tuning with HuggingFace
+
+- Introduction to Hugging Face
+- Using pre-trained models for text summarization
+- Implementing text summarization using Hugging Face transformers
+- Fine-tuning models for better performance
+- Evaluating summarization results
+
+### Lab-07: Computer Vision
 
 - OpenCV Overview
-- RGB to Grayscale
-- Guassian Blue
-- Canny Edge Detection
-- Object Detection through Template and Frame using CV2
+  - RGB to Grayscale
+  - Guassian Blue
+  - Canny Edge Detection
+  - Object Detection through Template and Frame using CV2
+- YOLO Algorithm Overview
+  - Object Localization
+  - Training of a Neural Network
+  - Why do we need YOLO?
+  - Intersection over Union (IOU)
+  - Introduction to YOLOv8
+  - Roboflow Overview
+  - Open Image Datasets
+  - YOLOv8 Lab Tasks
+- YOLOv8 Lab
+  - Object Detection from Image
+  - Object Detection from Video
+  - Object Detection from Camera
+  - Object Segmentation
+  - Confidence Score
+  - Running Segmentation on Video
 
-### Lab-08: MLFLow Part I
+### Lab-08: MLFLow
 
 - Introduction To MLFLOW
 - Getting Started With MLFLOW
@@ -184,16 +200,63 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - First ML Project With MLFLOW
 - Inferencing Model Artifacts With MLFlow Inferencing
 - MLFLOW Model Registry Tracking
-
-### Lab-09: MLFLow Part II
-
 - ML Project Integration With MLFLOW Tracking
   - Data Preparation House Price Prediction
   - Model Building And MLFLOW Tracking
 - Deep Learning ANN Model Building Integration With MLFLOW
   - ANN With MLFLOW
 
-### Lab 10: MLFLOW With AWS Cloud
+### Lab-09: Streamlit
+
+- Introduction to Streamlit
+
+  - What is Streamlit?
+  - Key features and benefits
+  - Comparison with other Python web frameworks
+  - Real-world use cases
+
+- Getting Started with Streamlit
+
+  - Installing Streamlit using `pip`
+  - Running your first app with `streamlit hello`
+  - Basic command-line usage
+  - Understanding file structure and app execution
+
+- Streamlit Layouts
+
+  - Using `st.title`, `st.header`, `st.subheader`, and `st.text`
+  - Creating columns with `st.columns`
+  - Using `st.sidebar` for controls or navigation
+  - Displaying images, charts, and dataframes
+  - Organizing layout with `st.container` and `st.expander`
+
+- Streamlit Widgets
+  - Input widgets: `st.text_input`, `st.number_input`, `st.slider`, `st.selectbox`
+  - Interaction controls: `st.button`, `st.checkbox`, `st.radio`
+  - Handling user input and dynamic display
+  - Forms and submission using `st.form` and `st.form_submit_button`
+
+### Lab 10: Robotics
+
+- Arduino Fundamentals
+
+  - Arduino boards and Microcontrollers
+  - Working with Microcontrollers
+  - Arduino Online Simulations
+
+- STEM Introduction in Robotics Projects
+
+  - Automatic Plant Watering System
+  - LED Blinking with Delay & Pattern
+  - Proximity Alert for Vehicles (Ultrasonic +
+    Buzzer
+
+- Introduction to Robotics
+
+  - Mechatronics
+  - Essential Components of a Robot
+  - Applications of Robotics
+  - Project Ideas
 
 - Content In process
 
